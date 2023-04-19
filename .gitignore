@@ -1,0 +1,7 @@
+# python
+.venv/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# own
+secrets.py
